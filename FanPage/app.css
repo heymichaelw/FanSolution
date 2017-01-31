@@ -1,0 +1,36 @@
+﻿body
+{
+    font-family: 'Lucida Sans';
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+a
+{
+    text-align: center;
+}
+
+li
+{
+    font-size: larger;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+.beginner
+{
+    background-color: darkgreen;
+}
+
+.intermediate
+{
+    background-color: lightgoldenrodyellow;
+}
+
+.expert
+{
+    background-color: crimson;
+}
